@@ -1,0 +1,2 @@
+# MyOwnLibrary
+ bounceoff,isTouching,collide.
